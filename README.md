@@ -18,9 +18,3 @@
 	1. BLDC Motor
 	2. ESCs
 	3. Battery
-
-
-| Compute Board       | Price | Flight Controller     | Price | Receiver      | Price | Motors       | Price | ESCs       | Price | Frame     | Price | PDB | Price | Battery     | Camera              | Price | Telemetry | Price | GPS        | Price | Sensors & Components                                      | Price            |     | Cost   |
-| ------------------- | ----- | --------------------- | ----- | ------------- | ----- | ------------ | ----- | ---------- | ----- | --------- | ----- | --- | ----- | ----------- | ------------------- | ----- | --------- | ----- | ---------- | ----- | --------------------------------------------------------- | ---------------- | --- | ------ |
-| Raspberry pi 4B 4GB | 5600  | RadioLink CrossFlight | 5100  | FlySky FS-i4x | 2300  | A2212 1000kv | 422   | 30A Simonk | 329   | F450/Q450 | 900   | -   | -     | 3S 2200 Mah | Raspberry pi Camera | 1600  | -         | -     | NEO 7M GPS | 1700  | Micro‑SD card(32 GB)                                      | -                |     | 22,000 |
-| Raspberry pi 5 4GB  | 6250  | RadioLink CrossFlight | 5000  | FlySky FS-i6  | 4478  | A2212 1000kv | 422   | 30A Simonk | 329   | F450/Q450 | 900   | -   | -     | 3S 2200 Mah | Raspberry pi Camera | 1600  | -         | -     | NEO 7M GPS | 1700  | Micro‑SD card(32 GB)<br><br>Benewake TFMini-S Micro LiDAR | 400<br>+<br>3300 |     | 27,000 |
