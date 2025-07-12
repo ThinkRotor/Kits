@@ -1,5 +1,11 @@
 # StarterKits
 
+| Kit | Compute Board       | Flight Controller     | Receiver      | Motors       | ESCs       | Frame     | Battery     | Camera              | Telemetry | GPS        | Sensors & Components                                      |
+| --- | ------------------- | --------------------- | ------------- | ------------ | ---------- | --------- | ----------- | ------------------- | --------- | ---------- | --------------------------------------------------------- |
+| 1   | Raspberry pi 4B 4GB | RadioLink CrossFlight | FlySky FS-i4x | A2212 1000kv | 30A Simonk | F450/Q450 | 3S 2200 Mah | Raspberry pi Camera | -         | NEO 7M GPS | Micro‑SD card(32 GB)                                      |
+| 2   | Raspberry pi 5 4GB  | RadioLink CrossFlight | FlySky FS-i6  | A2212 1000kv | 30A Simonk | F450/Q450 | 3S 2200 Mah | Raspberry pi Camera | -         | NEO 7M GPS | Micro‑SD card(32 GB)<br><br>Benewake TFMini-S Micro LiDAR |
+
+
 # Contents
 1. Compute
 	1. Raspberry pi 4B 4GB
